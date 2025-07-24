@@ -22,4 +22,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SharanShenoy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:61DAFB&height=100&section=footer" />
+</p>
