@@ -6,7 +6,7 @@
 ---
 
 # 💫 About Me:
-<br>Master’s in Computer Science*Illinois Institute of Technology*  <br>Experienced in **AI/ML, Full‑Stack Development, and Cloud Computing**  <br>Actively seeking **AI/ML, software engineering, or cloud development roles**  <br>Passionate about building **impactful solutions with modern tech stacks**<br><br>
+<br>Master’s in Computer Science *Illinois Institute of Technology*  <br>Experienced in **AI/ML, Full‑Stack Development, and Cloud Computing**  <br>Actively seeking **AI/ML, software engineering, or cloud development roles**  <br>Passionate about building **impactful solutions with modern tech stacks**<br><br>
 
 
 ## 🌐 Socials:
